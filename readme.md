@@ -4,7 +4,7 @@ This project analyzes a text file, counts word frequencies, and generates a word
 
 ## Files
 
-- [`word_counter.py`](c:/Users/anoop/OneDrive/Desktop/py/txt_counter.py): Main script for counting words and generating visualizations.
+- [`word_counter.py`](c:/Users/anoop/OneDrive/Desktop/py/word_counter.py): Main script for counting words and generating visualizations.
 - [`sample_text.txt`](c:/Users/anoop/OneDrive/Desktop/py/sample_text.txt): Example input text file.
 - `top_words.csv`: Output CSV file with top word frequencies.
 - `wordcloud.png`: Output image file of the word cloud.
@@ -20,7 +20,7 @@ This project analyzes a text file, counts word frequencies, and generates a word
 2. **Run the script:**
 
    ```sh
-   python txt_counter.py
+   python word_counter.py
    ```
 
 3. **Results:**
@@ -30,7 +30,7 @@ This project analyzes a text file, counts word frequencies, and generates a word
 
 ## Customization
 
-- To analyze a different text file, change the filename in [`count_top_words`](c:/Users/anoop/OneDrive/Desktop/py/txt_counter.py).
+- To analyze a different text file, change the filename in [`count_top_words`](c:/Users/anoop/OneDrive/Desktop/py/word_counter.py).
 - Adjust the number of top words by modifying the `top_n` parameter.
 
 ## License
